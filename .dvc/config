@@ -1,0 +1,5 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = gs://dvc-mlops-lab-jennifer/spotify-pipeline
+    credentialpath = ../../Lab_1/dvc-mlops-lab-0888d6e2c0a4.json
