@@ -1,0 +1,5 @@
+outs:
+- md5: ad441a936ed14a81dff786388c3a479b
+  size: 63015554
+  hash: md5
+  path: spotify_model_v1.pkl

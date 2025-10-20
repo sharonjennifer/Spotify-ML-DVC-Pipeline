@@ -1,0 +1,23 @@
+{
+  "version": "v1",
+  "timestamp": "2025-10-19T20:35:14.340263",
+  "rmse": 21.691875778654886,
+  "mae": 17.734575057028486,
+  "r2": 0.23351948135902112,
+  "features": [
+    "danceability",
+    "energy",
+    "loudness",
+    "speechiness",
+    "acousticness",
+    "instrumentalness",
+    "liveness",
+    "valence",
+    "tempo_normalized",
+    "energy_ratio",
+    "mood_score",
+    "duration_min"
+  ],
+  "n_train": 26262,
+  "n_test": 6566
+}
