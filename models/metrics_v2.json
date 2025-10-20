@@ -1,0 +1,27 @@
+{
+  "version": "v2",
+  "timestamp": "2025-10-19T20:37:32.118668",
+  "rmse": 21.274666772618446,
+  "mae": 16.987668027020433,
+  "r2": 0.26272002832065733,
+  "features": [
+    "danceability",
+    "energy",
+    "loudness",
+    "speechiness",
+    "acousticness",
+    "instrumentalness",
+    "liveness",
+    "valence",
+    "tempo_normalized",
+    "energy_ratio",
+    "mood_score",
+    "duration_min",
+    "key",
+    "mode"
+  ],
+  "n_features": 14,
+  "n_train": 26262,
+  "n_test": 6566,
+  "improvements": "Added StandardScaler, 2 more features, tuned hyperparameters"
+}
