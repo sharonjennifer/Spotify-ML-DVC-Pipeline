@@ -203,10 +203,7 @@ To reproduce results:
 
 ## Author
 
-Jennifer Sharon  
+Sharon Jennifer Justin Devaraj  
 MLOps Lab - DVC Implementation  
-October 2025
 
-## License
 
-This is an educational project for MLOps coursework.
